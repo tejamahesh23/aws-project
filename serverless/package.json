@@ -1,0 +1,8 @@
+{
+  "name": "br-insights-prototype",
+  "description": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.4.0"
+  }
+}
